@@ -1,5 +1,6 @@
 #!/usr/bin/python
-# Creditcard Generator Coded By ./Exorcism1337
+# CC Generator Recoded By ./Exorcism1337
+# This Tools is not made by me. i forgot who is the author from this tools . My Bad ^_^
 
 from random import Random
 import copy
